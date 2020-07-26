@@ -2,4 +2,5 @@
 
 A simulation of Flappy Bird on python using pygame module.<br>
 Check out my game and tell me your highscore. Let's see if I can beat that up! :wink:<br>
-![Preview of the game](image.jpg = 500x500)
+<br>
+<img src="image.jpg" alt="Preview" width="350" height="350">
